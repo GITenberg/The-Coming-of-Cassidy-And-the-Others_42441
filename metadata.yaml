@@ -1,0 +1,39 @@
+_repo: The-Coming-of-Cassidy-And-the-Others_42441
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dixon, Maynard
+    aliases:
+    - Dixon, Lafayette Maynard
+    - Dixon, L. Maynard
+    birthdate: 1875
+    deathdate: 1946
+    gutenberg_agent_id: '34054'
+    url: http://www.gutenberg.org/2009/agents/34054
+covers:
+- cover_type: archival
+  image_path: 42441-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Mulford, Clarence Edward
+    alias: Mulford, Clarence E.
+    birthdate: 1883
+    deathdate: 1956
+    gutenberg_agent_id: '962'
+    url: http://www.gutenberg.org/2009/agents/962
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_E._Mulford
+description: ''
+gutenberg_issued: '2013-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cassidy, Hopalong (Fictitious character) -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Coming of Cassidy—And the Others
+url: http://www.gutenberg.org/ebooks/42441
