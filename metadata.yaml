@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/962
     wikipedia: http://en.wikipedia.org/wiki/Clarence_E._Mulford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42441#The-Coming-of-Cassidy-And-the-Others
 gutenberg_issued: '2013-03-30'
 gutenberg_type: Text
 identifiers:
